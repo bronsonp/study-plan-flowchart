@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5289b2f.css",
-    "main.js": "/static/js/main.7d712e00.js",
-    "index.html": "/index.html",
-    "main.d5289b2f.css.map": "/static/css/main.d5289b2f.css.map",
-    "main.7d712e00.js.map": "/static/js/main.7d712e00.js.map"
+    "main.css": "/study-plan-flowchart/static/css/main.d5289b2f.css",
+    "main.js": "/study-plan-flowchart/static/js/main.fb93a433.js",
+    "index.html": "/study-plan-flowchart/index.html",
+    "main.d5289b2f.css.map": "/study-plan-flowchart/static/css/main.d5289b2f.css.map",
+    "main.fb93a433.js.map": "/study-plan-flowchart/static/js/main.fb93a433.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.7d712e00.js"
+    "static/js/main.fb93a433.js"
   ]
 }
