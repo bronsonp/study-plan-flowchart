@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/study-plan-flowchart/static/css/main.f3752866.css",
-    "main.js": "/study-plan-flowchart/static/js/main.684248b4.js",
+    "main.js": "/study-plan-flowchart/static/js/main.33f62ac7.js",
     "index.html": "/study-plan-flowchart/index.html",
     "main.f3752866.css.map": "/study-plan-flowchart/static/css/main.f3752866.css.map",
-    "main.684248b4.js.map": "/study-plan-flowchart/static/js/main.684248b4.js.map"
+    "main.33f62ac7.js.map": "/study-plan-flowchart/static/js/main.33f62ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.f3752866.css",
-    "static/js/main.684248b4.js"
+    "static/js/main.33f62ac7.js"
   ]
 }
